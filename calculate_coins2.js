@@ -1,4 +1,5 @@
-const generateCoinChange = cents => {
+// const generateCoinChange = cents => {
+function generateCoinChange() {
     let quarter = 0;
     let dime = 0;
     let nickel = 0;
